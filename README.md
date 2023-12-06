@@ -1,0 +1,1 @@
+# Mini-Project-Altered-text-Detection
